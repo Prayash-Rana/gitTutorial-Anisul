@@ -82,7 +82,15 @@ https://www.google.com/?gws_rd=ssl
 [Google](https://www.google.com/?gws_rd=ssl)   
 
 
-### image syntax  
+### image syntax    
+
+![car](./images/racing.jpg)  
+
+ ### image with width and height 
+
+<img src="./images/racing.jpg" width="200" title="racing car" />  
+
+
 ### Emoji 
 <!-- go to emojipedia  -->
 😅
@@ -95,4 +103,3 @@ https://www.google.com/?gws_rd=ssl
 | Rakib | Rakibsalauddin@gmail.com |
 
 
-![car](./images/racing.jpg)
