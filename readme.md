@@ -82,6 +82,17 @@ https://www.google.com/?gws_rd=ssl
 [Google](https://www.google.com/?gws_rd=ssl)   
 
 
-### image syntax
+### image syntax  
+### Emoji 
+<!-- go to emojipedia  -->
+😅
+
+### Table
+
+| Name | Email |
+| --- | --- |
+| Prayash | prayashaust@gmail.com |
+| Rakib | Rakibsalauddin@gmail.com |
+
 
 ![car](./images/racing.jpg)
